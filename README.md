@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ralla Jane</h1>
 <h3 align="center">Detail-oriented and motivated data analyst with a solid understanding of data manipulation, data visualization, and data cleaning techniques.</h3>
-<img align="right" alt="Coding" width400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 📫 How to reach me **rallavitale@gmail.com**
 
