@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **rallavitale@gmail.com**
 
-- I L&#x2665;VE working and learning **Data analysis: &#x2713; Excel, &#x2713; SQL, &#x2713; Python and &#x2713; Tableau**
+- I L&#x2665;VE working and learning:
+- **Data analysis: &#x2713; Excel, &#x2713; SQL, &#x2713; Python and &#x2713; Tableau**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
