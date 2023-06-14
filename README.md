@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ralla Jane</h1>
+<h1 align="center">Hi 👋, I'm Ralla</h1>
 <h3 align="center">I have always been fascinated by the power of data and how it can drive informed decision-making with a solid understanding of data manipulation, data visualization, and data cleaning techniques.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
