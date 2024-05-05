@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralla-engle&show_icons=true&locale=en&layout=compact" alt="ralla-engle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralla-engle&show_icons=true&locale=en" alt="ralla-engle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralla-engle&show_icons=true&locale=en" alt="rallajane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ralla-engle&" alt="ralla-engle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ralla-engle&" alt="rallajane" /></p>
