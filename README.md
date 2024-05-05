@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ralla Jane</h1>
 <h3 align="center">Detail-oriented and motivated data analyst with a solid understanding of data manipulation, data visualization, and data cleaning techniques.</h3>
 
-- 📫 How to reach me **rallavitale@gmail.com**
+- 📫 How to reach me **rallaengle@gmail.com**
 
 - ⚡ Fun fact **Data analysis: Excel, SQL, Python and Tableau**
 
